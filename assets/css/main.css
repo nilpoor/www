@@ -17,9 +17,9 @@ a:visited {color:#a0a}
 a:focus,a:active,a:hover {cursor:pointer;text-decoration:none}
 a img{border:0}
 #main{padding-bottom:85px;overflow: auto}
-.tag{margin:0 3px;font-family:'Oldenburg', cursive}
+.tag{margin:0 3px;}
 .tag-list{padding:0 10px}
-.tag-title{margin:30px 0 5px;background:#33363b;clear:both;color:#fff;font-size:150%;font-size:24px;font-weight:700;margin-bottom:10px;padding:12px;font-family:'Belgrano', serif;border-bottom:8px solid #d64350}
+.tag-title{margin:30px 0 5px;background:#33363b;clear:both;color:#fff;font-size:150%;font-size:24px;font-weight:700;margin-bottom:10px;padding:12px;border-bottom:8px solid #d64350}
 .reserved{padding:25px 0 0 10px}
 .title{height:50px;display:inline-block;margin:15px 0 0 0;padding-left:10px}
 .title a{font-weight:700;font-size:28px;color:#C7C7C7}
@@ -99,7 +99,7 @@ embed,iframe,object{max-width:100%}
 .widget a{font-weight:700;text-decoration:none}
 .widget a:hover,.widget a:focus,.widget a:active {text-decoration:none}
 .widget-area{font-size:12px;margin-bottom:20px;position:relative}
-.widget-area .widget-title{background:#33383D;border-bottom:8px solid #d64350;color:#fff;font-size:20px;font-weight:500;margin-bottom:5px;padding:8px 0 8px 15px;font-family:'Belgrano', serif}
+.widget-area .widget-title{background:#33383D;border-bottom:8px solid #d64350;color:#fff;font-size:20px;font-weight:500;margin-bottom:5px;padding:8px 0 8px 15px}
 .widget-area .widget{background:#fff;margin-bottom:20px;padding-bottom:10px}
 .space{padding:10px 0}
 .largespace{padding:25px 0}
@@ -107,12 +107,11 @@ embed,iframe,object{max-width:100%}
 .post-title{background:#33363b;clear:both;color:#fff;font-size:150%;font-size:20px;font-weight:700;margin-bottom:10px;padding:12px}
 .post-title a{color:#fff}
 .post-title a:hover,.post-title a:focus,.post-title a:active {color:#d64350}
-.post-date{background:#d64350;color:#fff;line-height:1.625em;margin-top:-10px;padding-left:13px;font-family:'Belgrano', serif}
-.post-tag-list{padding:30px 0 15px;font-family:'Belgrano', serif}
+.post-date{background:#d64350;color:#fff;line-height:1.625em;margin-top:-10px;padding-left:13px}
+.post-tag-list{padding:30px 0 15px}
 .post-tag{padding:1px 5px;margin: 0 2px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:3px;background-color:#aaa;color:#fff;font-weight:700}
 .post-summary-wrap{padding:10px 10px 0}
 .post-summary{padding-bottom:10px}
-.post-read-more{font-family:'Belgrano', serif}
 .posted-by{background:#fa9300;font-size:12px;font-weight:700;margin-left:-13px;padding:7px 7px 6px}
 .posted-name{background:#7ac0da;font-size:12px;font-weight:700;padding:7px 7px 6px}
 .posted-at{background:#c9c9c9;font-size:12px;font-weight:700;margin-left:-13px;padding:7px 7px 6px}
@@ -135,8 +134,8 @@ embed,iframe,object{max-width:100%}
 .clear{clear:both}
 .profile-data-block{margin:20px 0 5px;text-align:center}
 .profile-image img{padding-bottom:10px;width:80%;max-width:300px}
-.profile-description{font-family:'Oldenburg',cursive;font-size:15px}
-.profile-name{font-family:'Oldenburg',cursive;font-size:25px}
+.profile-description{font-size:15px}
+.profile-name{font-size:25px}
 .profile-social img{width:20%;max-width:50px;padding-top:10px}
 .share-button-list{overflow:auto;margin:10px 0}
 .share-button{float:left;margin:0 3px}
@@ -158,7 +157,7 @@ header{height:200px}
 .main-navi{display:block}
 .main-navi{padding:0;overflow:hidden;margin:0 0 -10px;height:56px;position:absolute;left:0;top:144px;width:100%}
 .main-navi ul{list-style:none;margin:-5px 0 0;padding:0;height:42px}
-.main-navi ul li{width:15.5%;float:left;text-align:center;line-height:.9em;font-weight:700;border-left:1px solid #444;background:#25272a;font-family:'Belgrano', serif}
+.main-navi ul li{width:15.5%;float:left;text-align:center;line-height:.9em;font-weight:700;border-left:1px solid #444;background:#25272a}
 .main-navi ul li a{display:block;color:#FFF;line-height:19px;font-size:14px;padding:22px 0}
 .main-navi ul li a:hover {text-decoration:none;color:#3B8DBD;cursor:pointer;background:#191a1c}
 .main-navi ul li.home-navi a:hover {color:#d64350}
